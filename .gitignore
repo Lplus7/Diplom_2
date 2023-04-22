@@ -1,6 +1,19 @@
 # Compiled class file
 *.class
 
+<<<<<<< HEAD
+=======
+# Idea files
+.idea
+
+# Target files
+target/
+
+#Allure files
+.allure/
+*.allure/
+
+>>>>>>> e82ae67 (+gitignore)
 # Log file
 *.log
 
@@ -21,4 +34,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 replay_pid*
+=======
+>>>>>>> e82ae67 (+gitignore)
